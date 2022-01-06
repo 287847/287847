@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in technology
 
 <!---
 287847/287847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
